@@ -1,0 +1,12 @@
+# Full wordlist — too large for GitHub (14M+ lines)
+# Use rockyou_sample.txt included in this repo for demo purposes
+rockyou.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
