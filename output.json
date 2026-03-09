@@ -1,0 +1,52 @@
+[
+    {
+        "username": "jsmith",
+        "password": "password123",
+        "password_found": true
+    },
+    {
+        "username": "ajonas",
+        "password": "",
+        "password_found": false
+    },
+    {
+        "username": "mwilliams",
+        "password": "password",
+        "password_found": true
+    },
+    {
+        "username": "lbrown",
+        "password": "123456",
+        "password_found": true
+    },
+    {
+        "username": "tcampos",
+        "password": "secret",
+        "password_found": true
+    },
+    {
+        "username": "rngata",
+        "password": "test",
+        "password_found": true
+    },
+    {
+        "username": "ekumar",
+        "password": "letmein",
+        "password_found": true
+    },
+    {
+        "username": "hlee",
+        "password": "",
+        "password_found": false
+    },
+    {
+        "username": "pmartinez",
+        "password": "",
+        "password_found": false
+    },
+    {
+        "username": "scollins",
+        "password": "pass",
+        "password_found": true
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "username": "jsmith",
+        "user_password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+    },
+    {
+        "username": "ajonas",
+        "user_password": "0aca6ba7aaf0345c435c9e564161384ad7548e647e2696f3fc093b68ccbe4f53"
+    },
+    {
+        "username": "mwilliams",
+        "user_password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8"
+    },
+    {
+        "username": "lbrown",
+        "user_password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92"
+    },
+    {
+        "username": "tcampos",
+        "user_password": "2bb80d537b1da3e38bd30361aa855686bde0eacd7162fef6a25fe97bf527a25b"
+    },
+    {
+        "username": "rngata",
+        "user_password": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"
+    },
+    {
+        "username": "ekumar",
+        "user_password": "1c8bfe8f801d79745c4631d09fff36c82aa37fc4cce4fc946683d7b336b63032"
+    },
+    {
+        "username": "hlee",
+        "user_password": "f4da0fb314fe5115d57725639f135080638e0b9dcc39e086333e9177a8b95023"
+    },
+    {
+        "username": "pmartinez",
+        "user_password": "b9c9f4f6fedd41ff7034e6dfa24d1a45ec78f0a51eb1f192e670285be0ea3297"
+    },
+    {
+        "username": "scollins",
+        "user_password": "d74ff0ee8da3b9806b18c877dbf29bbde50b5bd8e4dad7a3a725000feb82e8f1"
+    }
+]
