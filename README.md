@@ -248,7 +248,7 @@ The audit runs on a single thread. For very large user databases, a multi-thread
 I am a cybersecurity analyst with hands-on experience in Python scripting, ethical hacking fundamentals, and defensive security tooling.
 
 - 📧 [lucascamargo@outlook.com.au](mailto:lucascamargo@outlook.com.au)
-- 🔗 [linkedin.com/in/lucas-camargo-614307139](https://www.linkedin.com/in/lucas-camargo-614307139/)
+- 🔗 [linkedin.com/in/lucasgcamargo](https://www.linkedin.com/in/lucasgcamargo/)
 
 ---
 
